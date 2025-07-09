@@ -10,9 +10,6 @@ An AI-powered job matching platform that uses OpenAI GPT and Pinecone to semanti
 - 🧰 **Tech Stack**: Next.js (frontend), Python (API), OpenAI API, Pinecone DB, Vercel deployment.
 - 🛠 **Use Case**: Recruiters can instantly identify top-fit candidates with AI recommendations.
 
-## 📸 Demo Preview
-
- Live demo: AI Resume Matcher
 
 ## 📦 Folder Structure
 
@@ -32,7 +29,7 @@ ai-resume-matcher/
 
 ## 🌐 Live Demo
 
-Coming soon... https://main--ai-resume-builder-07.netlify.app/
+Coming soon... [AI Resume Maker](https://main--ai-resume-builder-07.netlify.app/)
 
 ## 👩‍💻 Author
 
